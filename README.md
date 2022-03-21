@@ -3,9 +3,9 @@
 ## 🌱 I’m currently learning Full Stack Development(MERN Stack)...
 ## 💞️ I’m looking to collaborate on Open Sousce Platforms...
 ## 📫 Reach out to me here
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](www.linkedin.com/in/amareshbarik)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amareshbarik)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmareshIndia22)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amaresh-portfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amareshbarik/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmareshIndia22?t=v6RUKqSJ2STeOHGGgYVqcQ&s=09)
 <!-- 
 LinkedIn: www.linkedin.com/in/amareshbarik, Twitter: https://twitter.com/AmareshIndia22, Quora: https://www.quora.com/profile/Amaresh-Barik-10, Medium: https://medium.com/@amaresh.acb... -->
  
