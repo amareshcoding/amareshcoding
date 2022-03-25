@@ -79,6 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 
 #
+<p dir="auto"></p>
 
 ![Amaresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amareshcoding&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amareshcoding&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
