@@ -83,6 +83,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Amaresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amareshcoding&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amareshcoding&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!-- //[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&langs_count=8)](https://github.com/amareshcoding/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&langs_count=8)](https://github.com/amareshcoding/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&layout=compact)](https://github.com/amareshcoding/github-readme-stats) -->
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></img>
