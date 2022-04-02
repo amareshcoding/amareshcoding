@@ -1,5 +1,5 @@
-# 👋Hi, I’m @Amaresh Barik
-## 👀 I’m interested in building tech  . . .
+# 👋 Hi, I’m @Amaresh Barik
+## 👀 I’m interested in Building Tech  . . .
 ## 🌱 I’m currently learning Full Stack Development(MERN Stack) . . .
 ## 💞️ I’m looking to collaborate on Open Sousce Platforms . . .
 ## 📫 Reach out to me here . . . 
