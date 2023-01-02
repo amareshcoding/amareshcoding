@@ -87,15 +87,18 @@ You can click the Preview link to take a look at your changes.
  
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=amareshcoding&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" />  -->
  
+ <div style='display:flex; flex-direction:column; justify-content:center; align-items:center;'>
+  
+
  
  ![Amaresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amareshcoding&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amareshcoding&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&layout=compact&theme=dark)](https://github.com/amareshcoding/github-readme-stats)
- 
+ </div>
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amareshcoding&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amareshcoding&theme=dracula&hide_border=true) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&layout=compact)](https://github.com/amareshcoding/github-readme-stats) -->
