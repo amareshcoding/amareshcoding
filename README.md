@@ -1,8 +1,8 @@
 
 
-# 👋 Hi, I’m @Amaresh Barik
-## 🧑🏽‍💻 I’m a Full Stack Developer(MERN Stack) . . .
-## 🤝 I’m looking forward to collaborate and contribute . . .
+# 👋 Hi, this is Amaresh Barik
+## 🧑🏽‍💻 Full Stack Developer(MERN Stack) . . .
+## 🤝 looking forward to collaborate and contribute . . .
 ## 📫 Reach out to me here . . . 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amareshbarik.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amareshbarik/)
