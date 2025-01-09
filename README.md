@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
  
  ![Amaresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amareshcoding&show_icons=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amareshcoding&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=amareshcoding&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amareshcoding&layout=compact&theme=dark)](https://github.com/amareshcoding/github-readme-stats)
  </div>
 </p>
